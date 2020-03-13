@@ -56,3 +56,12 @@ code {
   color: #333132;
   margin: 15px;
 }
+
+.msg-delete{
+  float: right;
+  margin: 5px 5px 0 0;
+}
+
+.hide{
+  display: none;
+}
